@@ -29,4 +29,4 @@ Contributions to this project are welcome! Feel free to submit pull requests to 
 The Almighty Kitten chatbot is distributed under the MIT license. Refer to the LICENSE file for further information.
 
 ## Contact
-For any inquiries or suggestions, please contact the creator at ![hectorvladitok@gmail.com](Hector Steve ITOK).
+For any inquiries or suggestions, please contact the creator at ![Hector Steve ITOK](hectorvladitok@gmail.com).
