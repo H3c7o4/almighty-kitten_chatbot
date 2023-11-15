@@ -1,7 +1,7 @@
 # Almighty Kitten
 
 <p align="center">
-  <img src="https://github.com/H3c7o4/almighty-kitten_chatbot/images/almkitten.png" />
+  <img src="https://github.com/H3c7o4/almighty-kitten_chatbot/blob/main/images/almkitten.png" />
 </p>
 
 
