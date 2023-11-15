@@ -1,5 +1,10 @@
 # Almighty Kitten
 
+<p align="center">
+  <img src="https://github.com/H3c7o4/almighty-kitten_chatbot/images/almkitten.png" />
+</p>
+
+
 ## Description
 Welcome to the Almighty Kitten, the ultimate Discord chatbot designed to provide inspiration, entertainment, knowledge, and fascinating facts. Our chatbot seeks to enhance your Discord experience by offering a wide array of functionalities to keep you engaged and entertained.
 
