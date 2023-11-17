@@ -74,8 +74,6 @@ def get_answer(query):
     else:
         return "Cannot proceed your request"
 
-
-
 @client.event
 async def on_ready():
     print('Logged in as')
